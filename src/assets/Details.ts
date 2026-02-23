@@ -1,8 +1,12 @@
-import aauMin from "@/assets/icons/aau.min.webp";
-import universityTexas from "@/assets/icons/UT.png";
-import booktix from "@/assets/icons/booktix.jpg";
-import mave from "@/assets/icons/Mave1.jpg";
-import accenture from "@/assets/icons/Acenture.webp"
+import cartel from "@/assets/icons/cartel.jpg"
+import devonlogo from "@/assets/icons/devon-logo.png";
+import corva from "@/assets/icons/corva.png"
+import cfy from "@/assets/icons/cfy.png"
+import self from "@/assets/icons/self.png"
+import foto from "@/assets/icons/foto.png"
+import zoom from "@/assets/icons/zoom.png"
+import MUM from "@/assets/icons/MUM.png"
+import allprint from "@/assets/icons/allprint.png"
 
 const details = {
   name: {
@@ -16,8 +20,8 @@ const details = {
     {
       school: "University of Ludwig-Maximilians in Munich",
       url: "https://www.lmu.de/en/",
-      icon: universityTexas,
-      iconMin: aauMin,
+      icon: MUM,
+      iconMin: MUM,
       location: "Munich, Germany",
       degree: "Bachelor's in Computer Science",
       major: "Recommendation Systems and Information retrieval",
@@ -29,8 +33,8 @@ const details = {
     {
       company: "Devon Energy",
       url: "https://www.devonenergy.com/",
-      icon: booktix,
-      iconMin: booktix,
+      icon: devonlogo,
+      iconMin: devonlogo,
       location: "Remote",
       contract: "Full-time",
       position: "Senior Front-End Developer",
@@ -50,8 +54,8 @@ const details = {
     {
       company: "Corva",
       url: "https://www.corva.ai/",
-      icon: mave,
-      iconMin: mave,
+      icon: corva,
+      iconMin: corva,
       location: "Remote",
       contract: "Contract",
       position: "Senior Front-End Developer",
@@ -72,8 +76,8 @@ const details = {
     {
       company: "CuratedForYou",
       url: "https://www.curatedforyou.io/",
-      icon: accenture,
-      iconMin: accenture,
+      icon: cfy,
+      iconMin: cfy,
       location: "Remote",
       contract: "Full-time",
       position: "Middle Full-Stack Developer",
@@ -93,8 +97,8 @@ const details = {
     {
       company: "Self-Employed",
       url: "#",
-      icon: accenture,
-      iconMin: accenture,
+      icon: self,
+      iconMin: self,
       location: "Remote",
       contract: "Full-time",
       position: "Senior Frontend Developer / Senior Web & Mobile Developer ",
@@ -114,8 +118,8 @@ const details = {
     {
       company: "FotoProfici.cz",
       url: "https://www.fotoprofici.cz/",
-      icon: accenture,
-      iconMin: accenture,
+      icon: foto,
+      iconMin: foto,
       location: "Remote",
       contract: "Full-time",
       position: "Frontend Developer",
@@ -132,8 +136,8 @@ const details = {
     {
       company: "ZOOM International",
       url: "#",
-      icon: accenture,
-      iconMin: accenture,
+      icon: zoom,
+      iconMin: zoom,
       location: "Remote",
       contract: "Contract",
       position: "Full-Stack Web Developer",
@@ -150,8 +154,8 @@ const details = {
     {
       company: "AllPrint Ltd.",
       url: "#",
-      icon: accenture,
-      iconMin: accenture,
+      icon: allprint,
+      iconMin: allprint,
       location: "Remote",
       contract: "Full-time",
       position: "Full-Stack Web Developer",
@@ -167,8 +171,8 @@ const details = {
     {
       company: "Cartel Studio Ltd.",
       url: "#",
-      icon: accenture,
-      iconMin: accenture,
+      icon: cartel,
+      iconMin: cartel,
       location: "Remote",
       contract: "Full-time",
       position: "Full-Stack Web Developer",
@@ -187,15 +191,15 @@ const details = {
       level: "Frontend",
     },
     {
-      name: "Node.js (Express) | Python (Django/Flask) | GraphQL (Apollo Server) | Serverless Framework | AWS Lambda | API Gateway | Kinesis | DynamoDB",
+      name: "Node.js (Express) | Python (Django/Flask) | GraphQL (Apollo Server) | Serverless Framework | DynamoDB",
       level: "Backend & Architecture",
     },
     {
-      name: "AWS (Lambda/Kinesis/DynamoDB/API Gateway/S3/CloudFormation) | Docker | Docker Compose | Kubernetes | Terraform | Serverless Framework",
+      name: "AWS Lambda | AWS Kinesis | AWS DynamoDB | AWS API Gateway | AWS S3 | AWS CloudFormation | Docker | Docker Compose | Kubernetes | Terraform | Serverless Framework",
       level: "Cloud & DevOps"
     },
     {
-      name: "PostgreSQL | MySQL | Redis | Elasticsearch | DynamoDB",
+      name: "PostgreSQL | MySQL | Redis | Elasticsearch",
       level: "Data & Patterns"
     },
     {
@@ -204,15 +208,15 @@ const details = {
     },
   ],
   contact: {
-    location: "Berlin, Germany",
-    email: "dustlee.dev@gmail.com",
-    phone: "+1 (430) 901-5970",
-    website: "https://dustinlee.online/",
-    linkedin: "https://www.linkedin.com/in/dustin-daniel-lee-1b20803b0/",
+    location: "Frankfurt, Germany",
+    email: "alex.dev0314@gmail.com",
+    phone: "+49 7393 918 9940",
+    website: "https://alexandr.live",
+    linkedin: "https://www.linkedin.com/in/alexandr-malasinschii",
     github: "https://www.github.com/hereistopdev",
-    researchgate: "dustinlee",
+    researchgate: "alexandr-malasinschii",
     gitlab: "https://www.gitlab.com/hereistopdev",
-    deviantart: "https://dustinlee.online/",
+    deviantart: "https://alexandr.live",
   },
 };
 

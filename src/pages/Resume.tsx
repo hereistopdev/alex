@@ -81,7 +81,7 @@ export default function Resume() {
       <Stack
         alignItems="center"
         sx={{
-          width: "100vw",
+          // width: "100vw",
           paddingTop: "var(--nav-safe-area-inset-top)",
           paddingBottom: `calc(var(--nav-safe-area-inset-bottom) + 4rem)`,
           paddingLeft: "var(--nav-safe-area-inset-left)",

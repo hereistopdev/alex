@@ -2,7 +2,7 @@
 **Senior Full-Stack Software Engineer | .NET & Cloud Architecture Specialist**
 
 **Location:** Austin, TX, 78735  
-**Email:** dustlee.dev@gmail.com  
+**Email:** alex.dev0314@gmail.com  
 **Phone:** +1 (430) 901-5970  
 **Website:** https://dustinlee.online/
 
