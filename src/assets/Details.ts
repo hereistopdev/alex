@@ -212,7 +212,7 @@ const details = {
     email: "alex.dev0314@gmail.com",
     phone: "+49 7393 918 9940",
     website: "https://alexandr.live",
-    linkedin: "https://www.linkedin.com/in/alexandr-malasinschii",
+    linkedin: "https://www.linkedin.com/in/alexandr-malasinschii-8744353b3/",
     github: "https://www.github.com/hereistopdev",
     researchgate: "alexandr-malasinschii",
     gitlab: "https://www.gitlab.com/hereistopdev",
